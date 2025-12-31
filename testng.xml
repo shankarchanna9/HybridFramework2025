@@ -15,8 +15,8 @@
 		<classes>
 			<class name="com.opencart.qa.tests.LoginTest" />
 		<class name="com.opencart.qa.tests.HomePageTest" />
-		<!--	<class name="com.opencart.qa.tests.RegistrationPageTest" />
-			<class name="com.opencart.qa.tests.LoginPageNegativeTests" />-->
+			<class name="com.opencart.qa.tests.RegistrationPageTest" />
+			<class name="com.opencart.qa.tests.LoginPageNegativeTests" />
 		</classes>
 	</test>
 </suite>

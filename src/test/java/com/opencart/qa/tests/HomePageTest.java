@@ -28,7 +28,7 @@ public class HomePageTest extends BaseTest {
 			Assert.assertTrue(loginPage.loginStatus());
 			homePage.goToHomePage();
 			homePage.searchProduct("Mac");
-			Assert.assertTrue(homePage.productLists("Macc"));
+			Assert.assertTrue(homePage.productLists("Mac"));
 		} catch (Exception e) {
 			logger.debug(e.getMessage());
 			throw new FrameworkException(e.getMessage());
