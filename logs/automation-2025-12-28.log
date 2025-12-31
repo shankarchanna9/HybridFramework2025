@@ -1,0 +1,41 @@
+15:09:37.447 [TestNG-test-ChromeTest-4] INFO  com.opencart.qa.tests.BaseTest - *** Killing the instance of driver ***
+15:09:38.151 [TestNG-test-ChromeTest-4] INFO  com.opencart.qa.tests.BaseTest - *** Browser is launching ***
+15:09:38.152 [TestNG-test-ChromeTest-4] INFO  com.opencart.qa.tests.BaseTest - Running tests on selenoum grid --chrome
+15:09:38.153 [TestNG-test-ChromeTest-4] INFO  com.opencart.qa.tests.BaseTest - Running tests in incognito mode
+15:09:39.511 [TestNG-test-ChromeTest-4] INFO  com.opencart.qa.tests.BaseTest - *** Navigated to Urlhttps://tutorialsninja.com/demo/index.php ***
+15:09:39.520 [TestNG-test-ChromeTest-4] INFO  com.opencart.qa.tests.BaseTest - *** Test execution started ***
+15:09:39.616 [TestNG-test-ChromeTest-4] INFO  com.opencart.qa.utils.ElementUtil - Succesfully CLICKED My Account
+15:09:39.844 [TestNG-test-ChromeTest-4] INFO  com.opencart.qa.utils.ElementUtil - Succesfully CLICKED Login
+15:09:39.845 [TestNG-test-ChromeTest-4] INFO  com.opencart.qa.tests.BaseTest - *** Navigated to login page ***
+15:09:39.938 [TestNG-test-ChromeTest-4] INFO  com.opencart.qa.utils.ElementUtil - Succesfully Send Text to Username/Email Field
+15:09:40.004 [TestNG-test-ChromeTest-4] INFO  com.opencart.qa.utils.ElementUtil - Succesfully Send Text to Password Field
+15:09:40.594 [TestNG-test-ChromeTest-4] INFO  com.opencart.qa.utils.ElementUtil - Succesfully CLICKED Login Button
+15:09:40.635 [TestNG-test-ChromeTest-4] INFO  com.opencart.qa.utils.ElementUtil - No UserName/Password Msg Succesfully Get Text: Warning: No match for E-Mail Address and/or Password.
+15:09:40.637 [TestNG-test-ChromeTest-4] INFO  com.opencart.qa.tests.BaseTest - *** Killing the instance of driver ***
+15:09:40.780 [TestNG-test-ChromeTest-4] INFO  com.opencart.qa.tests.BaseTest - *** Browser is launching ***
+15:09:40.780 [TestNG-test-ChromeTest-4] INFO  com.opencart.qa.tests.BaseTest - Running tests on selenoum grid --chrome
+15:09:40.781 [TestNG-test-ChromeTest-4] INFO  com.opencart.qa.tests.BaseTest - Running tests in incognito mode
+15:09:42.414 [TestNG-test-ChromeTest-4] INFO  com.opencart.qa.tests.BaseTest - *** Navigated to Urlhttps://tutorialsninja.com/demo/index.php ***
+15:09:42.415 [TestNG-test-ChromeTest-4] INFO  com.opencart.qa.tests.BaseTest - *** Test execution started ***
+15:09:42.481 [TestNG-test-ChromeTest-4] INFO  com.opencart.qa.utils.ElementUtil - Succesfully CLICKED My Account
+15:09:42.694 [TestNG-test-ChromeTest-4] INFO  com.opencart.qa.utils.ElementUtil - Succesfully CLICKED Login
+15:09:42.695 [TestNG-test-ChromeTest-4] INFO  com.opencart.qa.tests.BaseTest - *** Navigated to login page ***
+15:09:42.784 [TestNG-test-ChromeTest-4] INFO  com.opencart.qa.utils.ElementUtil - Succesfully Send Text to Username/Email Field
+15:09:42.847 [TestNG-test-ChromeTest-4] INFO  com.opencart.qa.utils.ElementUtil - Succesfully Send Text to Password Field
+15:09:42.905 [TestNG-test-ChromeTest-4] INFO  com.opencart.qa.utils.ElementUtil - Succesfully CLICKED Login Button
+15:09:43.451 [TestNG-test-ChromeTest-4] INFO  com.opencart.qa.utils.ElementUtil - No UserName/Password Msg Succesfully Get Text: Warning: No match for E-Mail Address and/or Password.
+15:09:43.455 [TestNG-test-ChromeTest-4] INFO  com.opencart.qa.tests.BaseTest - *** Killing the instance of driver ***
+15:09:43.629 [TestNG-test-ChromeTest-4] INFO  com.opencart.qa.tests.BaseTest - *** Browser is launching ***
+15:09:43.630 [TestNG-test-ChromeTest-4] INFO  com.opencart.qa.tests.BaseTest - Running tests on selenoum grid --chrome
+15:09:43.630 [TestNG-test-ChromeTest-4] INFO  com.opencart.qa.tests.BaseTest - Running tests in incognito mode
+15:09:44.962 [TestNG-test-ChromeTest-4] INFO  com.opencart.qa.tests.BaseTest - *** Navigated to Urlhttps://tutorialsninja.com/demo/index.php ***
+15:09:44.964 [TestNG-test-ChromeTest-4] INFO  com.opencart.qa.tests.BaseTest - *** Test execution started ***
+15:09:45.057 [TestNG-test-ChromeTest-4] INFO  com.opencart.qa.utils.ElementUtil - Succesfully CLICKED My Account
+15:09:45.398 [TestNG-test-ChromeTest-4] INFO  com.opencart.qa.utils.ElementUtil - Succesfully CLICKED Login
+15:09:45.399 [TestNG-test-ChromeTest-4] INFO  com.opencart.qa.tests.BaseTest - *** Navigated to login page ***
+15:09:45.484 [TestNG-test-ChromeTest-4] INFO  com.opencart.qa.utils.ElementUtil - Succesfully Send Text to Username/Email Field
+15:09:45.547 [TestNG-test-ChromeTest-4] INFO  com.opencart.qa.utils.ElementUtil - Succesfully Send Text to Password Field
+15:09:45.613 [TestNG-test-ChromeTest-4] INFO  com.opencart.qa.utils.ElementUtil - Succesfully CLICKED Login Button
+15:09:46.139 [TestNG-test-ChromeTest-4] INFO  com.opencart.qa.utils.ElementUtil - No UserName/Password Msg Succesfully Get Text: Warning: No match for E-Mail Address and/or Password.
+15:09:46.141 [TestNG-test-ChromeTest-4] INFO  com.opencart.qa.tests.BaseTest - *** Killing the instance of driver ***
+15:09:46.307 [TestNG-test-ChromeTest-4] INFO  com.opencart.qa.tests.BaseTest - *** Browser is launching ***

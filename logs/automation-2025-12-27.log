@@ -1,0 +1,49 @@
+18:36:33.835 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully CLICKED My Account
+18:36:34.058 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully CLICKED Login
+18:36:34.135 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully Send Text to Username/Email Field
+18:36:34.185 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully Send Text to Password Field
+18:36:34.243 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully CLICKED Login Button
+18:36:35.288 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully Send Text to Search Field
+18:36:35.773 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully CLICKED Search Icon
+18:36:36.010 [main] INFO  com.opencart.qa.tests.BaseTest - *** Killing the instance of driver ***
+18:36:36.191 [main] INFO  com.opencart.qa.tests.BaseTest - *** Browser is launching ***
+18:36:39.732 [main] INFO  com.opencart.qa.tests.BaseTest - *** Navigated to Urlhttps://tutorialsninja.com/demo/index.php ***
+18:36:39.735 [main] INFO  com.opencart.qa.tests.BaseTest - *** Test execution started ***
+18:36:39.790 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully CLICKED My Account
+18:36:40.020 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully CLICKED Login
+18:36:40.020 [main] INFO  com.opencart.qa.tests.BaseTest - *** Navigated to login page ***
+18:36:40.093 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully Send Text to Username/Email Field
+18:36:40.141 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully Send Text to Password Field
+18:36:40.193 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully CLICKED Login Button
+18:36:40.731 [main] INFO  com.opencart.qa.utils.ElementUtil - No UserName/Password Msg Succesfully Get Text: Warning: No match for E-Mail Address and/or Password.
+18:36:40.734 [main] INFO  com.opencart.qa.tests.BaseTest - *** Killing the instance of driver ***
+18:36:40.914 [main] INFO  com.opencart.qa.tests.BaseTest - *** Browser is launching ***
+18:36:42.241 [main] INFO  com.opencart.qa.tests.BaseTest - *** Navigated to Urlhttps://tutorialsninja.com/demo/index.php ***
+18:36:42.243 [main] INFO  com.opencart.qa.tests.BaseTest - *** Test execution started ***
+18:36:42.328 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully CLICKED My Account
+18:36:42.551 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully CLICKED Login
+18:36:42.552 [main] INFO  com.opencart.qa.tests.BaseTest - *** Navigated to login page ***
+18:36:42.645 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully Send Text to Username/Email Field
+18:36:42.696 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully Send Text to Password Field
+18:36:42.747 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully CLICKED Login Button
+18:36:43.337 [main] INFO  com.opencart.qa.utils.ElementUtil - No UserName/Password Msg Succesfully Get Text: Warning: No match for E-Mail Address and/or Password.
+18:36:43.339 [main] INFO  com.opencart.qa.tests.BaseTest - *** Killing the instance of driver ***
+18:36:43.509 [main] INFO  com.opencart.qa.tests.BaseTest - *** Browser is launching ***
+18:36:46.151 [main] INFO  com.opencart.qa.tests.BaseTest - *** Navigated to Urlhttps://tutorialsninja.com/demo/index.php ***
+18:36:46.152 [main] INFO  com.opencart.qa.tests.BaseTest - *** Test execution started ***
+18:36:46.209 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully CLICKED My Account
+18:36:46.398 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully CLICKED Login
+18:36:46.399 [main] INFO  com.opencart.qa.tests.BaseTest - *** Navigated to login page ***
+18:36:46.475 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully Send Text to Username/Email Field
+18:36:46.524 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully Send Text to Password Field
+18:36:46.574 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully CLICKED Login Button
+18:36:47.114 [main] INFO  com.opencart.qa.utils.ElementUtil - No UserName/Password Msg Succesfully Get Text: Warning: No match for E-Mail Address and/or Password.
+18:36:47.116 [main] INFO  com.opencart.qa.tests.BaseTest - *** Killing the instance of driver ***
+18:36:47.647 [main] INFO  com.opencart.qa.tests.BaseTest - *** Browser is launching ***
+18:36:48.975 [main] INFO  com.opencart.qa.tests.BaseTest - *** Navigated to Urlhttps://tutorialsninja.com/demo/index.php ***
+18:36:48.976 [main] INFO  com.opencart.qa.tests.BaseTest - *** Test execution started ***
+18:36:49.041 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully CLICKED My Account
+18:36:49.247 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully CLICKED Login
+18:36:49.248 [main] INFO  com.opencart.qa.tests.BaseTest - *** Navigated to login page ***
+18:36:49.324 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully Send Text to Username/Email Field
+18:36:49.381 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully Send Text to Password Field

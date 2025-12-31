@@ -1,0 +1,37 @@
+08:55:34.053 [main] INFO  com.opencart.qa.tests.BaseTest - *** Test execution started ***
+08:55:34.453 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully CLICKED My Account
+08:55:34.818 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully CLICKED Login
+08:55:34.821 [main] INFO  com.opencart.qa.tests.BaseTest - *** Navigated to login page ***
+08:55:35.185 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully Send Text to Username/Email Field
+08:55:35.410 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully Send Text to Password Field
+08:55:36.363 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully CLICKED Login Button
+08:55:36.485 [main] INFO  com.opencart.qa.tests.BaseTest - *** Killing the instance of driver ***
+08:55:40.572 [main] INFO  com.opencart.qa.factory.DriverFactory - *** Navigated to Urlhttps://tutorialsninja.com/demo/index.php ***
+08:55:40.574 [main] INFO  com.opencart.qa.tests.HomePageTest - *** Test execution started ***
+08:55:40.808 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully CLICKED My Account
+08:55:41.244 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully CLICKED Login
+08:55:41.973 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully Send Text to Username/Email Field
+08:55:42.145 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully Send Text to Password Field
+08:55:43.064 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully CLICKED Login Button
+08:55:43.629 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully Send Text to Search Field
+08:55:44.131 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully CLICKED Search Icon
+08:55:44.682 [main] INFO  com.opencart.qa.tests.BaseTest - *** Killing the instance of driver ***
+08:59:24.609 [main] INFO  com.opencart.qa.factory.DriverFactory - *** Navigated to Urlhttps://tutorialsninja.com/demo/index.php ***
+08:59:24.631 [main] INFO  com.opencart.qa.tests.BaseTest - *** Test execution started ***
+08:59:25.123 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully CLICKED My Account
+08:59:25.479 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully CLICKED Login
+08:59:25.485 [main] INFO  com.opencart.qa.tests.BaseTest - *** Navigated to login page ***
+08:59:25.887 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully Send Text to Username/Email Field
+08:59:26.087 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully Send Text to Password Field
+08:59:27.094 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully CLICKED Login Button
+08:59:27.199 [main] INFO  com.opencart.qa.tests.BaseTest - *** Killing the instance of driver ***
+08:59:30.106 [main] INFO  com.opencart.qa.factory.DriverFactory - *** Navigated to Urlhttps://tutorialsninja.com/demo/index.php ***
+08:59:30.110 [main] INFO  com.opencart.qa.tests.HomePageTest - *** Test execution started ***
+08:59:30.445 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully CLICKED My Account
+08:59:30.878 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully CLICKED Login
+08:59:31.146 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully Send Text to Username/Email Field
+08:59:31.334 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully Send Text to Password Field
+08:59:32.272 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully CLICKED Login Button
+08:59:32.918 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully Send Text to Search Field
+08:59:33.342 [main] INFO  com.opencart.qa.utils.ElementUtil - Succesfully CLICKED Search Icon
+08:59:33.863 [main] INFO  com.opencart.qa.tests.BaseTest - *** Killing the instance of driver ***

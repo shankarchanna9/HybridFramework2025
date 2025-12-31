@@ -1,0 +1,51 @@
+22:10:58.318 [main] INFO  com.opencart.qa.tests.BaseTest - *** Navigated to login page ***
+22:10:59.289 [main] INFO  com.opencart.qa.tests.BaseTest - *** Killing the instance of driver ***
+22:10:59.528 [main] INFO  com.opencart.qa.tests.BaseTest - *** Browser is launching ***
+22:11:03.303 [main] INFO  com.opencart.qa.tests.BaseTest - *** Navigated to Urlhttps://tutorialsninja.com/demo/index.php ***
+22:11:03.306 [main] INFO  com.opencart.qa.tests.BaseTest - *** Test execution started ***
+22:11:04.133 [main] INFO  com.opencart.qa.tests.BaseTest - *** Navigated to login page ***
+22:11:05.178 [main] INFO  com.opencart.qa.tests.BaseTest - *** Killing the instance of driver ***
+22:11:05.467 [main] INFO  com.opencart.qa.tests.BaseTest - *** Browser is launching ***
+22:11:10.232 [main] INFO  com.opencart.qa.tests.BaseTest - *** Navigated to Urlhttps://tutorialsninja.com/demo/index.php ***
+22:11:10.234 [main] INFO  com.opencart.qa.tests.BaseTest - *** Test execution started ***
+22:11:10.693 [main] INFO  com.opencart.qa.tests.BaseTest - *** Navigated to login page ***
+22:11:11.995 [main] INFO  com.opencart.qa.tests.BaseTest - *** Killing the instance of driver ***
+22:11:13.005 [main] INFO  com.opencart.qa.tests.BaseTest - *** Browser is launching ***
+22:11:15.477 [main] INFO  com.opencart.qa.tests.BaseTest - *** Navigated to Urlhttps://tutorialsninja.com/demo/index.php ***
+22:11:15.479 [main] INFO  com.opencart.qa.tests.BaseTest - *** Test execution started ***
+22:11:16.056 [main] INFO  com.opencart.qa.tests.BaseTest - *** Navigated to login page ***
+22:11:18.122 [main] INFO  com.opencart.qa.tests.BaseTest - *** Killing the instance of driver ***
+22:11:18.446 [main] INFO  com.opencart.qa.tests.BaseTest - *** Browser is launching ***
+22:11:21.320 [main] INFO  com.opencart.qa.tests.BaseTest - *** Navigated to Urlhttps://tutorialsninja.com/demo/index.php ***
+22:11:21.321 [main] INFO  com.opencart.qa.tests.BaseTest - *** Test execution started ***
+22:11:21.839 [main] INFO  com.opencart.qa.tests.BaseTest - *** Navigated to login page ***
+22:11:22.798 [main] INFO  com.opencart.qa.tests.BaseTest - *** Killing the instance of driver ***
+22:11:23.092 [main] INFO  com.opencart.qa.tests.BaseTest - *** Browser is launching ***
+22:11:26.308 [main] INFO  com.opencart.qa.tests.BaseTest - *** Navigated to Urlhttps://tutorialsninja.com/demo/index.php ***
+22:11:26.310 [main] INFO  com.opencart.qa.tests.BaseTest - *** Test execution started ***
+22:11:26.970 [main] INFO  com.opencart.qa.tests.BaseTest - *** Navigated to login page ***
+22:11:28.324 [main] INFO  com.opencart.qa.tests.BaseTest - *** Killing the instance of driver ***
+22:11:28.640 [main] INFO  com.opencart.qa.tests.BaseTest - *** Browser is launching ***
+22:11:31.254 [main] INFO  com.opencart.qa.tests.BaseTest - *** Navigated to Urlhttps://tutorialsninja.com/demo/index.php ***
+22:11:31.255 [main] INFO  com.opencart.qa.tests.BaseTest - *** Test execution started ***
+22:11:31.682 [main] INFO  com.opencart.qa.tests.BaseTest - *** Navigated to login page ***
+22:11:32.676 [main] INFO  com.opencart.qa.tests.BaseTest - *** Killing the instance of driver ***
+22:11:33.001 [main] INFO  com.opencart.qa.tests.BaseTest - *** Browser is launching ***
+22:11:38.141 [main] INFO  com.opencart.qa.tests.BaseTest - *** Navigated to Urlhttps://tutorialsninja.com/demo/index.php ***
+22:11:38.143 [main] INFO  com.opencart.qa.tests.BaseTest - *** Test execution started ***
+22:11:39.308 [main] INFO  com.opencart.qa.tests.BaseTest - *** Navigated to login page ***
+22:11:40.527 [main] INFO  com.opencart.qa.tests.BaseTest - *** Killing the instance of driver ***
+22:24:27.105 [main] INFO  com.opencart.qa.tests.BaseTest - *** Browser is launching ***
+22:24:30.485 [main] INFO  com.opencart.qa.tests.BaseTest - *** Navigated to Urlhttps://tutorialsninja.com/demo/index.php ***
+22:24:30.496 [main] INFO  com.opencart.qa.tests.BaseTest - *** Test execution staerted ***
+22:24:31.251 [main] INFO  com.opencart.qa.tests.BaseTest - *** Navigated to registration page ***
+22:24:32.906 [main] INFO  com.opencart.qa.tests.BaseTest - *** Created a new Account ***
+22:24:37.914 [main] INFO  com.opencart.qa.tests.BaseTest - *** Killing the instance of driver ***
+22:27:39.766 [main] INFO  com.opencart.qa.tests.BaseTest - *** Browser is launching ***
+22:27:42.809 [main] INFO  com.opencart.qa.tests.BaseTest - *** Navigated to Urlhttps://tutorialsninja.com/demo/index.php ***
+22:27:42.824 [main] INFO  com.opencart.qa.tests.BaseTest - *** Test execution staerted ***
+22:27:43.458 [main] INFO  com.opencart.qa.tests.BaseTest - *** Navigated to registration page ***
+22:27:45.109 [main] INFO  com.opencart.qa.tests.BaseTest - *** Created a new Account ***
+22:27:50.135 [main] INFO  com.opencart.qa.tests.BaseTest - *** Killing the instance of driver ***
+22:35:01.225 [main] INFO  com.opencart.qa.tests.BaseTest - *** Browser is launching ***
+22:35:05.313 [main] INFO  com.opencart.qa.tests.BaseTest - *** Navigated to Urlhttps://tutorialsninja.com/demo/index.php ***
